@@ -33,10 +33,6 @@
     <img alt="fwwebb-Karla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fwwebb-Karla&show_icons=true&hide_border=true" />
 </p>
 
----
-<p align="center">
-    <img src="https://github.com/fwwebb-Karla/fwwebb-Karla/blob/master/images/stat.svg" alt="fwwebb-Karlas weekly coding stats"/>
-</p>
 
 [website]: http://www.karla-mcleod.com
 [linkedin]: https://www.linkedin.com/in/karlamcleod/
